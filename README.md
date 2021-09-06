@@ -9,5 +9,11 @@ Python: https://www.python.org/
       Download the file
       Change the file permissions to 755
 Then
-      
-     ./interview.py or python interview.py
+  
+For running level 1 solution
+
+     ./level1.py
+  
+For running level 1 solution
+
+     ./level2.py
